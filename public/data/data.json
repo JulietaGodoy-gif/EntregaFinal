@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Rosa",
+    "precio": 25,
+    "imagen": "https://images.unsplash.com/photo-1496062031456-07b8f162a322?q=80&w=1665&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 2,
+    "nombre": "Tulipán",
+    "precio": 30,
+    "imagen": "https://images.unsplash.com/photo-1561181226-e8a7edd504c6?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 3,
+    "nombre": "Girasol",
+    "precio": 20,
+    "imagen": "https://images.unsplash.com/photo-1542801204-141ec23989d7?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 4,
+    "nombre": "Lirio",
+    "precio": 28,
+    "imagen": "https://images.unsplash.com/photo-1519064438923-de4de326dfd1?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 5,
+    "nombre": "Orquídea",
+    "precio": 40,
+    "imagen": "https://images.unsplash.com/photo-1582862058398-c157c8424b54?q=80&w=1827&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 6,
+    "nombre": "Dalia",
+    "precio": 22,
+    "imagen": "https://images.unsplash.com/photo-1620062317671-ef6441546d7d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 7,
+    "nombre": "Clavel",
+    "precio": 18,
+    "imagen": "https://images.unsplash.com/photo-1617265178200-facb3f9d8f37?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 8,
+    "nombre": "Margarita",
+    "precio": 19,
+    "imagen": "https://images.unsplash.com/photo-1591533985237-e813a3f3ebb9?q=80&w=1635&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 9,
+    "nombre": "Peonía",
+    "precio": 35,
+    "imagen": "https://images.unsplash.com/photo-1560256608-43f0b6f7588e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  },
+  {
+    "id": 10,
+    "nombre": "Hortensia",
+    "precio": 26,
+    "imagen": "https://images.unsplash.com/photo-1529530968687-17b54c12c9a9?q=80&w=1635&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "categoria": "Flores"
+  }
+]
